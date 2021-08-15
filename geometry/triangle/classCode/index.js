@@ -1,0 +1,12 @@
+console.group("Triangles");
+const tSide1 = 6;
+const tSide2 = 6;
+const tBase = 4;
+const tHeight = 5.5;
+const tPerimeter = tSide1 + tSide2; 
+const tArea = (tBase * tHeight) / 2;
+console.log(`Triangle sides measure: side 1: ${tSide1} cm, side 2: ${tSide2} cm, base: ${tBase} cm.`);
+console.log(`Triangle height measure: ${tHeight} cm`);
+console.log(`Triangle Perimeter measure: ${tPerimeter} cm`);
+console.log(`Triangle Area measure: ${tArea} cm^2`);
+console.groupEnd(); 
