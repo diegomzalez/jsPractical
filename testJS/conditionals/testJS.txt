@@ -1,0 +1,5 @@
+1) Answer the following questions:
+a) What's a conditional?
+R: It's a code block that validates a condition to determinate if it is executed or no.
+b) What types of conditionals exist in JavaScript and what are their differences?
+R: if, else if, else, switch and ternary. we use if to validate few cases, the witch to valiadate a lot of cases and ternaty is very similar to the if, but the entired conditional is reduced to one line.

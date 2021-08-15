@@ -1,0 +1,13 @@
+1) Answer the following questions:
+
+a) What's a function?
+R: It's a code block that does a determinate process.
+
+b) When does a function serve me in my code?
+R: It serves me when I make modularized code and prevent code repetition.
+
+c) What's the differece between function params and arguments.
+R: The params are from the definition of the function, and arguments are the ones that are passed as parameters to the function.
+
+
+

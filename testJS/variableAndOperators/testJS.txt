@@ -1,0 +1,18 @@
+A) Variables and Operators
+1) What's a variable
+R: It's a memory space where we can store a information type.
+2) What's the difference between declarate and initilize a varible.
+R: When we declarate a variable, we assign a memory and we initialize, we assign information.
+3) What's the difference between sum numbers and  concatenate strings?
+R: When we sum numbers, we do the sum of arithmetic operation using + operator  and when we concatenate strings, we join characters strings.
+4) What's the operator to sum or concatenate?
+R: +.
+B) Determinate the name and data type to store in variables the following information:
+Name: let name = "name"
+Lastname: let lastname = "lastname"
+Platzi username: let platziUser = "platziUser"
+Age: let age = number
+Email address: let email = "email@email.com"
+Adult: let adult = true
+Saved money: let savedMoney = num
+Debts: let debts = null

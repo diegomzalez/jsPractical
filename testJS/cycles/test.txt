@@ -1,0 +1,9 @@
+ Cycles
+1) What's a cycle?
+R: It's a code block that repeats as many times as we indicate.
+2) What cycle types exits in JavaScript?
+R: For, fot of. for in, While, do-while.
+3) What's a infinite cycle and why is a problem?
+R: It's a cycle that never ends. It can cause crashes in the program.
+4) Can I mix cycles and conditionals?
+R: Yes.

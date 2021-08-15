@@ -1,0 +1,11 @@
+Answer the following questions:
+
+1) What's a array?
+R: It's a memory space where we can store various types of data.
+2) What's a object?
+R: It's data type which we can assign characteristic and behavior and 
+create other objects with the same characteristics.
+3) When it's better use arrays or objects?
+R: Depends on the needs of the program.
+4) Can i mix arrays with objects?
+R: Yes, we can.
