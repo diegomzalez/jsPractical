@@ -1,7 +1,6 @@
 /**
  * The function calculates isoceles triangle height, receiving sides and base triangle
- * @param {float} sideA
- * @param {float} sideB 
+ * @param {float} sides 
  * @param {float} base 
  * @returns isoceles triangle height
  */
