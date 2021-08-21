@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Porcentages and discount</title>
+</head>
+<body>
+        <header class="header">
+                <p class="p">Porcentages and Discounts</p>
+        </header>
+        <section>
+                <form action="inpurPrice">
+                        <label for="inputPrice">
+                                Product price
+                                <input type="number" id="inputPrice" placeholder="Enter your product price">
+                        </label>
+                        <label for="inputDiscount">
+                                Discount
+                                <select name="Discounts" id="inputDiscount">
+                                        <option value="0">0%</option>
+                                        <option value="10">10%</option>
+                                        <option value="20">20%</option>
+                                        <option value="30">30%</option>
+                                </select>
+                        </label>
+                        <label for="inputCoupon">
+                                <select name="Coupons" id="inputCoupon">
+                                        <option value="0">0%</option>
+                                        <option value="10">10%</option>
+                                        <option value="20">20%</option>
+                                        <option value="30">30%</option>
+                                </select>
+                        </label>
+                        <button type="button" onclick="enter()">
+                                Enter
+
+                        </button>
+                </form>
+                <p id="displayPrice"></p>
+        </section>
+        <script src="index.js"></script>
+</body>
+</html>
