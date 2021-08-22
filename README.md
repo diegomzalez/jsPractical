@@ -11,7 +11,14 @@
 
 ## Part #2: Percentages and discounts
 
-- First Step: Define las formulas.
-- Second Step: Implement the formulas with JS.
-- Third Step: Create functions.
-- Fourth Step: Integrate JS with HTML.
+- First step: Define las formulas.
+- Second step: Implement the formulas in JS.
+- Third step: Create functions.
+- Fourth step: Integrate JS with HTML.
+
+## Part #3: Average, median and fad
+
+- First Step: Define the formulas.
+- Second step: Implement the formulas in JS.
+- Third step: Create functions.
+- Fourth step: Integrate JS with HTML.
